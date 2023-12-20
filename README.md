@@ -8,33 +8,21 @@
 
 Hi There,
 
-I'm `xianii`, a fullstack `Electronics Engineer`. 
-
-I have spent the last decade doing a lot of development of ultra-low power consumer electronics. For example, various sports bracelets, hybrid smart watches, etc.
+I'm `M BintangR`, a fullstack developer. 
 
 ### Language
-[![My Language](https://skillicons.dev/icons?theme=dark&i=c,go,v,lua,regex)](https://skillicons.dev)
+[![My Language](https://skillicons.dev/icons?theme=dark&i=javascript,typescript,php,c++,dart)](https://skillicons.dev)
 
-- `Embedded C` for developing of microcontroller firmware.
-- `Golang` for developing of desktop apps and backend applications.
-- `Lua` for `LÖVE2D`.
-- `vlang` is an interesting project.
-- `Regular expressions` should be learned by everyone.
-- `AutoHotKey` for windows automation tools and desktop apps.
+- `Typescript & Javascript` for developing frontend web & mobile aplication.
+- `php` for backend application.
+- `dart` for android & ios application.
+- `c++` for studying in school.
 
 ### Develop Tool
 [![My Develop tool](https://skillicons.dev/icons?theme=dark&i=git,vscode)](https://skillicons.dev)
 
 - `Git` for version control, not only for code, but for almost everything.
 - `vscode` is an editor good enough for daily use, but it could be better.
-- `tinyCC` is used to perform unit tests on embedded c projects. In these bare metal environments without an operating system, there is a real lack of modern tools to automate the testing.
-- `KiCAD` for PCB layout.
-
-### Opensource Hardware
-[![My Opensource Hardware](https://skillicons.dev/icons?theme=dark&i=arduino,raspberrypi)](https://skillicons.dev)
-
-- `Arduino` dev boards are used to build tools for automated testing in microcontroller projects.
-- `RaspberryPi`, if I want, on which I can write code, compile, download programs and do automated test work for microcontrollers. Of course, normally, I just use it to run some IoT projects or to run some simple web services.
 
 ### Frontend
 [![My Frontend](https://skillicons.dev/icons?perline=4&theme=dark&i=html,css,vite,tailwind,windicss,svelte,react,materialui)](https://skillicons.dev)
@@ -49,10 +37,10 @@ I have spent the last decade doing a lot of development of ultra-low power consu
 ## GitHub stats
 
 <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nigh&show_icons=true&count_private=true&theme=dracula"/>
-    <img width="48%" src="https://streak-stats.demolab.com/?user=nigh&theme=dracula&date_format=%5BY.%5Dn.j"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=M-BintangR&show_icons=true&count_private=true&theme=dracula"/>
+    <img width="48%" src="https://streak-stats.demolab.com/?user=M-BintangR&theme=dracula&date_format=%5BY.%5Dn.j"/>
 </p>
 
 <p align="center">
-    <img width="96%" src="https://activity-graph.herokuapp.com/graph?username=nigh&bg_color=282a36&line=dd6387&point=78d9f9&color=f8f8f2&radius=8"/>
+    <img width="96%" src="https://activity-graph.herokuapp.com/graph?username=M-BintangR&bg_color=282a36&line=dd6387&point=78d9f9&color=f8f8f2&radius=8"/>
 </p>

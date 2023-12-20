@@ -11,7 +11,7 @@ Hi There,
 I'm `M BintangR`, a fullstack developer. 
 
 ### Language
-[![My Language](https://skillicons.dev/icons?theme=dark&i=javascript,typescript,php,c++,dart)](https://skillicons.dev)
+[![My Language](https://skillicons.dev/icons?theme=dark&i=javascript,typescript,php,cpp,dart)](https://skillicons.dev)
 
 - `Typescript & Javascript` for developing frontend web & mobile aplication.
 - `php` for backend application.

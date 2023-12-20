@@ -1,9 +1,9 @@
 <p align="center">
-    <img align="center" src="https://komarev.com/ghpvc/?username=Nigh"/>
+    <img align="center" src="https://komarev.com/ghpvc/?username=M-BintangR"/>
 </p>
 
 <p align="center">
-<img width="66%" src="https://github-profile-trophy.vercel.app/?username=Nigh&column=5&margin-w=5&margin-h=5&theme=discord"/>
+<img width="66%" src="https://github-profile-trophy.vercel.app/?username=M-BintangR&column=5&margin-w=5&margin-h=5&theme=discord"/>
 </p>
 
 Hi There,

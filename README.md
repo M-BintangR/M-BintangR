@@ -25,7 +25,7 @@ I'm `M BintangR`, a fullstack developer.
 - `vscode` is an editor good enough for daily use, but it could be better.
 
 ### Frontend
-[![My Frontend](https://skillicons.dev/icons?perline=4&theme=dark&i=html,css,vite,tailwind,windicss,sass,svelte,react,vue,nextjs,nuxtjs,sveltekit,angular)](https://skillicons.dev)
+[![My Frontend](https://skillicons.dev/icons?perline=4&theme=dark&i=html,css,vite,tailwind,windicss,sass,svelte,react,vue,nextjs,nuxtjs,nodejs,angular)](https://skillicons.dev)
 
 - PWA applications built using modern front-end technologies are much easier to develop and distribute than native applications. And UI layout and interaction design become much easier.
 

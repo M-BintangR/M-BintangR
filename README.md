@@ -1,6 +1,3 @@
-<p align="center">
-    <img align="center" src="https://komarev.com/ghpvc/?username=M-BintangR"/>
-</p>
 
 <p align="center">
 <img width="66%" src="https://github-profile-trophy.vercel.app/?username=M-BintangR&column=5&margin-w=5&margin-h=5&theme=discord"/>
@@ -25,7 +22,7 @@ I'm `M BintangR`, a fullstack developer.
 - `vscode` is an editor good enough for daily use, but it could be better.
 
 ### Frontend
-[![My Frontend](https://skillicons.dev/icons?perline=4&theme=dark&i=html,css,vite,tailwind,windicss,sass,svelte,react,vue,nextjs,nuxtjs,nodejs,angular)](https://skillicons.dev)
+[![My Frontend](https://skillicons.dev/icons?perline=4&theme=dark&i=html,css,vite,tailwind,windicss,sass,svelte,react,vue,nextjs,nuxtjs,nodejs,angular,laravel,jquery)](https://skillicons.dev)
 
 - PWA applications built using modern front-end technologies are much easier to develop and distribute than native applications. And UI layout and interaction design become much easier.
 

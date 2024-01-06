@@ -31,6 +31,11 @@ I'm `M BintangR`, a fullstack developer.
 
 - `blender` for modeling for 3D.
 
+- ### Design
+[![My 3D](https://skillicons.dev/icons?perline=4&theme=dark&i=figma)](https://skillicons.dev)
+
+- `Figma` for design application.
+
 ## GitHub stats
 
 <p align="center">
